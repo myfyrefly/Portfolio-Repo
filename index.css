@@ -1,3 +1,63 @@
 body {
-    background-color: #116466;
+  background-color: #d1e8e2;
+  font-family: "Indie Flower", cursive;
+  margin: 30px;
+  font-size: 25px;
+}
+
+.nav-color {
+  background-color: #116466;
+}
+
+.navbar-brand {
+  font-family: "Indie Flower", cursive;
+  font-size: 35px;
+}
+
+.aboutrow {
+  padding: 30px;
+  background-color: #ffcb9a;
+  }
+
+img {
+  border: 3px solid #d9b08c;
+}
+
+a {
+  font-family: "Indie Flower", cursive;
+  font-size: 30px;
+}
+
+h1 {
+text-decoration: underline;
+padding: 10px;
+}
+
+.contact-col {
+  background-color: #ffcb9a;
+  border: 3px solid #d9b08c;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.about-text {
+  border: 3px solid #d9b08c;
+  background-color: #ffcb9a;
+  border-radius: 20px;
+}
+
+.port-style {
+  border: 3px solid #d9b08c;
+  background-color: #ffcb9a;
+  border-radius: 20px;
+ 
+}
+
+#seoimg {
+  height: 200px;
+  width: 300px;
+}
+
+.alienimg {
+  width: 300px;
 }
